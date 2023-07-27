@@ -51,15 +51,15 @@
 
 ## 📌 주요 기능
 
-#### 💵 공지사항 게시판 - <a href="" >상세보기 - WIKI 이동</a>
+#### 💵 공지사항 게시판 
   1. <a href="learntime/src/main/java/com/learntime/app/notice" >java file</a>
   2. <a href="learntime/src/main/webapp/WEB-INF/views/notice" >jsp file</a>
   
-#### 💵 FAQ 게시판 - <a href="" >상세보기 - WIKI 이동</a>
+#### 💵 FAQ 게시판 
   1. <a href="learntime/src/main/java/com/learntime/app/faq" >java file</a>
   2. <a href="learntime/src/main/webapp/WEB-INF/views/faq" >jsp file</a>
   
-#### 💵 문의 게시판 - <a href="" >상세보기 - WIKI 이동</a>
+#### 💵 문의 게시판
   1. <a href="learntime/src/main/java/com/learntime/app/question" >java file</a>
   2. <a href="learntime/src/main/webapp/WEB-INF/views/question" >jsp file</a>
   
